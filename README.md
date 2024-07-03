@@ -1,4 +1,4 @@
-# robofriends
+# Made using simple React Classes
 Tutorial for React
 To run the project:
 
