@@ -1,5 +1,4 @@
 # Made using simple React Classes
-Tutorial for React
 To run the project:
 
 1. Clone this repo
